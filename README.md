@@ -1,7 +1,8 @@
+**PROJETO DE CONCLUSÃO DA PÓS-GRADUAÇÃO**
+
 # Otimização de Insumos na Indústria 4.0
 Artefatos complementares do projeto otimização de insumos com Edge AI
 
-**PROJETO DE CONCLUSÃO DA PÓS-GRADUAÇÃO**
 **Autor:** Welington dos Santos Sales  
 **Ano:** 2026
 
